@@ -1,6 +1,6 @@
 # 👋  Olá! Bem-vindo(a) ao meu perfil do GitHub!
 
-<div>
+<div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garridorafael&show_icons=true&count_private=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garridorafael&layout=compact&theme=tokyonight">
 </div><br>
