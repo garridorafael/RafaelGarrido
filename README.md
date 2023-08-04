@@ -2,7 +2,7 @@
 
 <div style="display: "inline_block">
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=garridorafael&show_icons=true&count_private=true&theme=tokyonight">
-  <img align="center" height="200em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garridorafael&layout=compact&theme=tokyonight">
+  <img align="center" height="200em" width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garridorafael&layout=compact&theme=tokyonight">
 </div><br>
 
 🎓 Formação:
