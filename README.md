@@ -1,9 +1,9 @@
-👋 # Olá! Bem-vindo(a) ao meu perfil do GitHub!
+# 👋  Olá! Bem-vindo(a) ao meu perfil do GitHub!
 
 🎓 Formação:
 Sou formado(a) em Análise e Desenvolvimento de Sistemas pela UNIP e atualmente estou cursando Desenvolvimento Web Fullstack na Kenzie Academy Brasil.
 
-💻 Habilidades:
+### 💻 Habilidades:
 - Linguagens: HTML, CSS, JavaScript, TypeScript
 - Frameworks e bibliotecas: ReactJS
 - Estilização: Styled Components, Tailwind CSS
@@ -12,7 +12,7 @@ Sou formado(a) em Análise e Desenvolvimento de Sistemas pela UNIP e atualmente 
 - Validação de formulários: React Hook Form, Zod
 - Navegação: React Router DOM
 
-🚀 Sobre mim:
+### 🚀 Sobre mim:
 Sou um(a) entusiasta da tecnologia e estou sempre em busca de aprimorar minhas habilidades em desenvolvimento web. Tenho paixão por criar interfaces de usuário atraentes e funcionais, além de me interessar por projetos desafiadores que possam agregar valor à comunidade.
 
 🌱 Atualmente, estou me aprofundando em Backend estudando Express, Node.js, PostgreSQL.
