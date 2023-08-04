@@ -6,7 +6,7 @@
 </div><br>
 
 🎓 Formação:
-Sou formado(a) em **Análise e Desenvolvimento de Sistemas** pela UNIP e atualmente estou cursando **Desenvolvimento Web Fullstack** na Kenzie Academy Brasil.
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela UNIP e atualmente estou cursando **Desenvolvimento Web Fullstack** na Kenzie Academy Brasil.
 
 ### 💻 Habilidades:
 - Linguagens: HTML, CSS, JavaScript, TypeScript
