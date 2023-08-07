@@ -33,7 +33,7 @@ Sou um(a) entusiasta da tecnologia e estou sempre em busca de aprimorar minhas h
 </div>
 <br>
 📫 Como me encontrar:<br>
-- LinkedIn: https://www.linkedin.com/in/rafael-garrido-37a5b5196/ <br>
+- LinkedIn:  https://www.linkedin.com/in/garrido-rafael <br>
 - E-mail: rgarrido846@gmail.com <br> <br>
 
 Happy coding! 😊
