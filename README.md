@@ -10,7 +10,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela UNIP e atualmente
 
 ### 💻 Habilidades:
 
-## Frontend:
+#### Frontend:
 
 -  Linguagens: HTML, CSS, JavaScript, TypeScript
 -  Frameworks e bibliotecas: ReactJS
@@ -20,7 +20,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** pela UNIP e atualmente
 -  Validação de formulários: React Hook Form, Zod
 -  Navegação: React Router DOM
   
-**Backend:**
+#### Backend:
 
 -  Linguagens: JavaScript/TypeScript (Node.js), Python
 -  Frameworks web: Express (Node.js), Django (Python)
