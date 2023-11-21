@@ -9,18 +9,28 @@
 Sou formado em **Análise e Desenvolvimento de Sistemas** pela UNIP e atualmente estou cursando **Desenvolvimento Web Fullstack** na Kenzie Academy Brasil.
 
 ### 💻 Habilidades:
-- Linguagens: HTML, CSS, JavaScript, TypeScript
-- Frameworks e bibliotecas: ReactJS
-- Estilização: Styled Components, Tailwind CSS
-- Gerenciamento de estado: React Hooks
-- Comunicação com API: Axios
-- Validação de formulários: React Hook Form, Zod
-- Navegação: React Router DOM
+
+##Frontend:
+
+-  Linguagens: HTML, CSS, JavaScript, TypeScript
+-  Frameworks e bibliotecas: ReactJS
+-  Estilização: Styled Components, Tailwind CSS
+-  Gerenciamento de estado: React Hooks
+-  Comunicação com API: Axios
+-  Validação de formulários: React Hook Form, Zod
+-  Navegação: React Router DOM
+  
+##Backend:
+
+-  Linguagens: JavaScript/TypeScript (Node.js), Python
+-  Frameworks web: Express (Node.js), Django (Python)
+-  ORM (Object-Relational Mapping): TypeORM
+-  Banco de dados: PostgreSQL
 
 ### 🚀 Sobre mim:
 Sou um(a) entusiasta da tecnologia e estou sempre em busca de aprimorar minhas habilidades em desenvolvimento web. Tenho paixão por criar interfaces de usuário atraentes e funcionais, além de me interessar por projetos desafiadores que possam agregar valor à comunidade.
 
-🌱 Atualmente, estou me aprofundando em Backend estudando **Express, Node.js, PostgreSQL**.
+🌱 Atualmente, estou me aprofundando em Backend estudando **Nest.js, Prisma**.
 
 🤝 Vamos colaborar! Se você estiver trabalhando em projetos interessantes ou precisar de ajuda em algo, sinta-se à vontade para entrar em contato.
 
